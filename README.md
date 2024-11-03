@@ -15,3 +15,5 @@ This project showcases an interactive image card gallery with a hover effect, de
 
 💼 Contact me on linkedin. [Linkedin](https://www.linkedin.com/in/adityamamta/) <br>
 adityamamta4@gmail.com
+
+![preview img](img/card-hover-animation-mockup.png)
