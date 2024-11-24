@@ -13,7 +13,8 @@ This project showcases an interactive image card gallery with a hover effect, de
 - HTML & CSS for layout and styling
 - SCSS for nested styling and variables
 
-💼 Contact me on linkedin. [Linkedin](https://www.linkedin.com/in/adityamamta/) <br>
-adityamamta4@gmail.com
+### 💼 Contact me 
+- linkedin. [Linkedin](https://www.linkedin.com/in/adityamamta/)
+- Email: adityamamta4@gmail.com
 
-![preview img](img/card-hover-animation-mockup.png)
+<!-- ![preview img](image/card-hover-effect-mockup.png) -->
